@@ -1,5 +1,5 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/footlose/nav@image/nav-1721877822897-WX20230807-174422@2x.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
@@ -15,12 +15,6 @@
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
     {
       "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
       "url": "",
